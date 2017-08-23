@@ -1,4 +1,4 @@
-package com.easy.kotlin.chaptor1
+package com.easy.kotlin.chapter1
 
 /**
  * Created by jack on 2017/6/5.
