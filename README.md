@@ -387,12 +387,12 @@ https://www.jetbrains.com/idea/documentation/
 ![](http://upload-images.jianshu.io/upload_images/1233356-a485310eeb7b9b07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-我们在`src/main/kotlin`下面新建`package` :com.easy.kotlin.chaptor1
+我们在`src/main/kotlin`下面新建`package` :com.easy.kotlin.chapter1
 
 然后新建HelloWorld.kt，编写以下代码
 
 ```
-package com.easy.kotlin.chaptor1
+package com.easy.kotlin.chapter1
 
 /**
  * Created by jack on 2017/6/5.
@@ -419,7 +419,7 @@ fun main(args:Array<String>){
 
 .../kotlin-stdlib-jre8-1.1.1.jar:
 .../kotlin-stdlib-jre7-1.1.1.jar:
-.../kotlin-stdlib-1.1.1.jar:... com.easy.kotlin.chaptor1.HelloWorldKt
+.../kotlin-stdlib-1.1.1.jar:... com.easy.kotlin.chapter1.HelloWorldKt
 ...
 
 
